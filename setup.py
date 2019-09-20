@@ -17,7 +17,7 @@ setup(
     version=version,
     author='jachinlin',
     author_email='linjx1000@gmail.com',
-    url='https://github.com/jachinlin/geektime_dl',
+    url='https://github.com/zhouao0314/geektime_dl',
     description='把极客时间装进Kindle',
     long_description=read('README.md'),
     long_description_content_type='text/markdown',
